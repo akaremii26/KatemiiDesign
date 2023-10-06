@@ -1,2 +1,2 @@
 # KatemiiDesign
-My first website
+My first website. About my design
